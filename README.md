@@ -5,7 +5,7 @@ The current cloud system is nice to have + to backup, but to copy individual thi
 This will make it fast and easy! 
 
 ## Installation 
-Just download the latest from Releases, extract and launch!
+Just download the latest from [Releases](https://github.com/BirdSamuel/FFCopier/releases), extract all files to a folder, and launch `FFCopier.exe`.
 
 ## Usage
 Use the "From" or "To" dropdowns and tap "Add new character...". A dialog will help you browse to your FFXIV characters folders and select one. 
