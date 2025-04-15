@@ -4,6 +4,9 @@ The current cloud system is nice to have + to backup, but to copy individual thi
 
 This will make it fast and easy! 
 
+## Example
+![image](https://github.com/user-attachments/assets/5246e2bf-e272-4f0f-8c4b-8ebd6becbeb1)
+
 ## Installation 
 Just download the latest from [Releases](https://github.com/BirdSamuel/FFCopier/releases), extract all files to a folder, and launch `FFCopier.exe`.
 
@@ -22,3 +25,5 @@ Usually you can log in to a character, modify something, and check the last modi
 Once multiple characters are added, simply choose who to copy From + To, and select which configs you'd like to copy! That's it!
 
 Thanks for reading! Hope you enjoy!
+
+
